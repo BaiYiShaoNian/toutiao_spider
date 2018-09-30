@@ -4,3 +4,4 @@ import os,sys
 import time,datetime
 
 print "hello"
+print "test"
